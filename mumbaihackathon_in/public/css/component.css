@@ -110,6 +110,13 @@ body{
 	padding-top: 50px;
 }
 
+.winner-footer {
+	text-align: center;
+	font-size: 2.5em;
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+
 .winner-description {
 	text-align: center;
 	font-size: 1.5em;
